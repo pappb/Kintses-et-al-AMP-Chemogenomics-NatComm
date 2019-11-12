@@ -7,11 +7,11 @@ The programs are written in R.
  __script folder__
 * _script/cg01_RemoveBackground.R_  
 * _script/cg02_rescaleData.R_
-* _script/cg03_plotsOfDataAfterBgRemoveAndRescale.R_ Generates figures to visualise data grouped by treatments. It is not needed for  further analisys.
-* _script/cg04_plotRawBarplotsForEachLine.R_ Generates figures to visualise data grouped by genes. It is not needed for further analisys.
-* _script/cg05_normalizationOfBimodalDist.R_ Normalises data
-* _script/functions-for-chemogenomic-project.R_ contains some helper functions.
-* _script/pdfTools.R_ contains some more helper functions for the normalisation script.
+* _script/cg03_plotsOfDataAfterBgRemoveAndRescale.R_ Generates figures to visualise data grouped by treatments. It is not needed for  further analysis.
+* _script/cg04_plotRawBarplotsForEachLine.R_ Generates figures to visualise data grouped by genes. It is not needed for further analysis.
+* _script/cg05_normalizationOfBimodalDist.R_ Normalizes data.
+* _script/functions-for-chemogenomic-project.R_ Contains some helper functions.
+* _script/pdfTools.R_ Contains some additional helper functions for the normalization script.
 
 
 __data folder__
